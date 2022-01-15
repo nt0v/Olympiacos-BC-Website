@@ -1,0 +1,73 @@
+.main-ul {
+    background-color: red;
+    margin: 3em auto;
+    width: fit-content;
+    border: 20px solid black;
+    border-radius: 40%;
+}
+
+.main-ul ul{
+    padding-left: 0;
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.main-ul ul li {
+    padding: 2em 4em 2em 4em;
+}
+
+.with-border {
+    border-right: 5px solid black;
+}
+
+.main-ul ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 2.5em;
+    font-family: 'Righteous', cursive;
+    font-weight: bold;
+}
+
+.main-ul ul li a:hover {
+    color: rgb(73, 72, 72);
+}
+
+#main-h1 {
+    font-size: 4em;
+    margin-top: 1em;
+    margin-bottom: 0;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#main-p {
+    margin: 0.5em auto;
+    font-size: 3em;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+}
+
+.el-bl {
+    margin-top: 3em;
+    width: 100%;
+    background-color: white;
+}
+
+.el-bl ul {
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.el-bl ul li {
+    padding: 2em;
+}
+
+.el-bl ul img {
+    border: 10px solid black;
+    border-radius: 5%;
+    width: 24em;
+    height: 10em;
+}

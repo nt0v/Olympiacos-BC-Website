@@ -1,0 +1,72 @@
+h1 {
+    font-size: 3em;
+    font-family: 'Patrick Hand', cursive;
+    margin-top: 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+    font-family: 'Patrick Hand', cursive;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.old-img {
+    width: fit-content;
+    margin: auto;
+}
+
+.old-img img {
+    width: 30em;
+    height: 18em;
+}
+
+#description {
+    background-color: red;
+    margin: auto;
+    width: 50%;
+    border-radius: 15%;
+}
+
+#description p {
+    padding: 1em;
+    font-size: 1.5em;
+    font-family: 'Patrick Hand', cursive;
+    color: white;
+}
+
+.sef-img {
+    width: fit-content ;
+    margin: auto;
+}
+
+.sef-img img {
+    width: 30em;
+    height: 18em;
+}
+
+.sef-description {
+    background-color: red;
+    margin: auto;
+    width: 50%;
+    border-radius: 15%;
+}
+
+.sef-description p {
+    padding: 1em;
+    font-size: 1.5em;
+    font-family: 'Patrick Hand', cursive;
+    color: white;
+}
+
+.back {
+    width: fit-content;
+    margin-top: 2em;
+    margin-left: 2em;
+}
+
+.back img {
+    width: 4em;
+    height: 4em;
+}

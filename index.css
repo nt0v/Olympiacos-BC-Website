@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background: white;
+}
+
+#nav-h1 {
+    color: white;
+    font-size: 3em;
+    font-family: 'Arvo', serif;
+    margin: auto 0;
+    -webkit-text-stroke: 2px black;
+    text-decoration: none;
+}
+
+nav {
+    background-color: red;
+    width: 100%;
+    height: 7em;
+    display: flex;
+}
+
+.nav-img {
+    margin: auto 3em auto 2em;
+}
+
+.nav-img img {
+    width: 5.3em;
+    height: 6em;
+    display: flex;
+}
+
+.nav-ul-social {
+    margin: auto 0;
+    position: absolute;
+    right: 4em;
+}
+
+.nav-ul-social ul {
+    display: flex;
+    list-style: none;
+}
+
+.nav-ul-social img {
+    width: 3.5em;
+    height: 3.5em;
+    padding: 0.6em;
+}

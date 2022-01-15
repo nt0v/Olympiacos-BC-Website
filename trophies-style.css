@@ -1,0 +1,86 @@
+h1 {
+    font-size: 3em;
+    font-family: 'Patrick Hand', cursive;
+    margin-top: 0;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin: 0;
+    font-family: 'Patrick Hand', cursive;
+}
+
+hr {
+    width: 75%;
+    background-color: black;
+    height: 0.5em;
+    margin-bottom: 4em;
+}
+
+.back {
+    width: fit-content;
+    margin-top: 2em;
+    margin-left: 2em;
+}
+
+.back img {
+    width: 4em;
+    height: 4em;
+}
+
+.trophies ul {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+.trophies ul li {
+    padding: 2em;
+    font-family: 'Patrick Hand', cursive;
+}
+
+.trophy-img {
+    margin: auto;
+}
+
+.trophy-img img {
+    width: 10em;
+    height: 14em;
+}
+
+#el-img {
+    padding-left: 2.7em;
+}
+
+#gl-img {
+    padding-left: 4em;
+}
+
+#gc {
+    padding-left: 2.5em;
+}
+
+#inter-img {
+    padding-left: 5em;
+}
+
+.trophy-des {
+    text-align: center;
+    margin: auto;
+}
+
+.trophy-des ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+.trophy-des ul li {
+    font-size: 2em;
+    font-family: 'Patrick Hand', cursive;
+}
+
+.trophy-des p {
+    font-size: 2em;
+    font-family: 'Patrick Hand', cursive;
+}

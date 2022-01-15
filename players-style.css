@@ -1,0 +1,76 @@
+h1 {
+    font-size: 3em;
+    font-family: 'Patrick Hand', cursive;
+    margin-top: 0;
+    text-align: center;
+}
+
+hr {
+    width: 75%;
+    background-color: black;
+    height: 0.5em;
+    margin-bottom: 4em;
+}
+
+.back {
+    width: fit-content;
+    margin-top: 2em;
+    margin-left: 2em;
+}
+
+.back img {
+    width: 4em;
+    height: 4em;
+}
+
+.three {
+    margin-top: 6em;
+}
+
+.three ul {
+    padding-left: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+.three ul li {
+    padding-left: 5em;
+    padding-right: 5em;
+}
+
+.three ul li img {
+    width: 15em;
+    height: 18.4375em;
+}
+
+.three ul li img:hover {
+    opacity: 0.5;
+}
+
+.three ul li p {
+    font-size: 1.5em;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.coach {
+    margin: 2em auto;
+    width: fit-content;
+}
+
+.coach img {
+    width: 40em;
+    height: 25em;
+    border-radius: 50%;
+}
+
+.coach p {
+    font-size: 2em;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+    text-transform: uppercase; 
+    font-weight: bold; 
+}
