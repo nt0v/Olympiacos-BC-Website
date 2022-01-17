@@ -20,6 +20,12 @@ h2 {
 .old-img img {
     width: 30em;
     height: 18em;
+    border: 10px solid black;
+    border-radius: 50%;
+}
+
+.old-img img:hover {
+    opacity: 0.7;
 }
 
 #description {
@@ -44,6 +50,8 @@ h2 {
 .sef-img img {
     width: 30em;
     height: 18em;
+    border: 10px solid black;
+    border-radius: 50%;
 }
 
 .sef-description {
@@ -51,6 +59,10 @@ h2 {
     margin: auto;
     width: 50%;
     border-radius: 15%;
+}
+
+.sef-img img:hover {
+    opacity: 0.7;
 }
 
 .sef-description p {
@@ -69,4 +81,8 @@ h2 {
 .back img {
     width: 4em;
     height: 4em;
+}
+
+.back img:hover {
+    opacity: 0.8;
 }
